@@ -1,4 +1,5 @@
-export const SERVER_URL = 'http://localhost:8888/api/'
+// export const SERVER_URL = 'http://localhost:8888/api/'
+export const SERVER_URL = 'https://hollowcards-server.onrender.com/api/'
 
 export const CLOUDINARY_URL = 'https://api.cloudinary.com/v1_1/dzuhs2zr3/image/upload'
 export const CLOUDINARY_UPLOAD_PRESET = 'be3cxjf1'

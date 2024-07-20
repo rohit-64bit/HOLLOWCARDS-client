@@ -129,7 +129,7 @@ const Products = () => {
             '>
                 <span className='text-[#F28929]'>P</span>RODUCTS
             </p>
-            <div className='mt-10 grid grid-flow-col md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-10'>
+            <div className='mt-10 grid md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-10'>
 
                 {
                     products?.map((data) => {
